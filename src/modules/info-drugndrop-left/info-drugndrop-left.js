@@ -1,4 +1,4 @@
-
+import './info-drugndrop-left.scss';
 
 function InfoDrugNDropLeft() {
     return (
