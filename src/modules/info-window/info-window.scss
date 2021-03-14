@@ -1,0 +1,11 @@
+.info-window {
+    height: 25%;
+    width: 60%;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #303234;
+    box-shadow: 9px 9px 16px rgba(0, 0, 0, 0.4), -9px -9px 16px rgba(73, 73, 73, 0.6);
+    border-radius: 20px;
+}

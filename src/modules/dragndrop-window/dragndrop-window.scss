@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+.dragndrop-window {
+    height: 40%;
+    width: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+    border: 1px solid #272829;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.feed-me {
+    font-family: 'Dosis', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #F18303 0%, #F94409 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
